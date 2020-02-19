@@ -1,0 +1,9 @@
+c:\users\amanda.mollare\documents\visual studio 2017\Projects\API\API\bin\Debug\netcoreapp1.1\API.deps.json
+c:\users\amanda.mollare\documents\visual studio 2017\Projects\API\API\bin\Debug\netcoreapp1.1\API.runtimeconfig.json
+c:\users\amanda.mollare\documents\visual studio 2017\Projects\API\API\bin\Debug\netcoreapp1.1\API.runtimeconfig.dev.json
+c:\users\amanda.mollare\documents\visual studio 2017\Projects\API\API\bin\Debug\netcoreapp1.1\API.dll
+c:\users\amanda.mollare\documents\visual studio 2017\Projects\API\API\bin\Debug\netcoreapp1.1\API.pdb
+c:\users\amanda.mollare\documents\visual studio 2017\Projects\API\API\obj\Debug\netcoreapp1.1\API.csprojResolveAssemblyReference.cache
+c:\users\amanda.mollare\documents\visual studio 2017\Projects\API\API\obj\Debug\netcoreapp1.1\API.AssemblyInfo.cs
+c:\users\amanda.mollare\documents\visual studio 2017\Projects\API\API\obj\Debug\netcoreapp1.1\API.dll
+c:\users\amanda.mollare\documents\visual studio 2017\Projects\API\API\obj\Debug\netcoreapp1.1\API.pdb
